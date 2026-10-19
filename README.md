@@ -31,5 +31,3 @@ Your game directory should look like this:
 Credit goes to the original author of the widescreen fix.
 
 This is an unofficial community project and is not affiliated with Electronic Arts.
-
-Please check the original author's license and redistribution permissions before sharing the included files.
